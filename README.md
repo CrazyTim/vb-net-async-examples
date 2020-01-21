@@ -1,5 +1,5 @@
-### Just some example code showing:
+# VB.NET Async Example Code
 
-- how to call slow methods by wrapping in `Task.Run()`.
-- how to very easily throw a timeout exception if a task takes too long.
-- proper naming conventions.
+- Very easily throw a timeout exception if a task takes too long.
+- Show an async dialog (winforms).
+- Call slow methods by wrapping in `Task.Run()`.
